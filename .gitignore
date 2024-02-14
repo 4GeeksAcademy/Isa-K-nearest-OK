@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+/workspaces/Isa-K-nearest-OK/data/processed/Data_clean.csv
+/workspaces/Isa-K-nearest-OK/data/processed/Data.csv
+/workspaces/Isa-K-nearest-OK/src/Isa_K-near.db
